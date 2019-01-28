@@ -17,5 +17,8 @@ void main()
    a[i]=a[j];
    a[a[j]=temp;
   }
-  
-  
+     }
+for(i=0;i<n;i++)
+     {
+       printf("%d",a[i]);
+     }
